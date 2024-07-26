@@ -1,0 +1,140 @@
+{
+   "categories" :  [
+    {
+    "id": "MLM1747",
+    "name": "Accesorios para Vehículos",
+    "get": 35
+  },
+  {
+    "id": "MLM189530",
+    "name": "Agro",
+    "get": 30
+  },
+  {
+    "id": "MLM1403",
+    "name": "Alimentos y Bebidas",
+    "get": 55
+  },
+  {
+    "id": "MLM1071",
+    "name": "Animales y Mascotas",
+    "get": 35
+  },
+  {
+    "id": "MLM1367",
+    "name": "Antigüedades y Colecciones",
+    "get": 25
+  },
+  {
+    "id": "MLM1368",
+    "name": "Arte, Papelería y Mercería",
+    "get": 35
+  },
+  {
+    "id": "MLM1384",
+    "name": "Bebés",
+    "get" : 55
+  },
+  {
+    "id": "MLM1246",
+    "name": "Belleza y Cuidado Personal",
+    "get": 60
+  },
+  {
+    "id": "MLM1039",
+    "name": "Cámaras y Accesorios",
+    "get": 20
+  },
+  {
+    "id": "MLM1051",
+    "name": "Celulares y Telefonía",
+    "get": 60
+  },
+  {
+    "id": "MLM1648",
+    "name": "Computación",
+    "get": 60
+  },
+  {
+    "id": "MLM1144",
+    "name": "Consolas y Videojuegos",
+    "get": 60
+  },
+  {
+    "id": "MLM1500",
+    "name": "Construcción",
+    "get": 25
+    
+  },
+  {
+    "id": "MLM1276",
+    "name": "Deportes y Fitness",
+    "get": 65
+  },
+  {
+    "id": "MLM1575",
+    "name": "Electrodomésticos",
+    "get": 60
+  },
+  {
+    "id": "MLM1000",
+    "name": "Electrónica, Audio y Video",
+    "get": 55
+  },
+  {
+    "id": "MLM186863",
+    "name": "Herramientas",
+    "get": 35
+  },
+  {
+    "id": "MLM1574",
+    "name": "Hogar, Muebles y Jardín",
+    "get": 55
+  },
+  {
+    "id": "MLM1499",
+    "name": "Industrias y Oficinas",
+    "get": 40
+  },
+  {
+    "id": "MLM1182",
+    "name": "Instrumentos Musicales",
+    "get": 30 
+  },
+  {
+    "id": "MLM3937",
+    "name": "Joyas y Relojes", 
+    "get": 30 
+  },
+  {
+    "id": "MLM1132",
+    "name": "Juegos y Juguetes",
+    "get": 60
+  },
+  {
+    "id": "MLM3025",
+    "name": "Libros, Revistas y Comics",
+    "get": 50
+  },
+  {
+    "id": "MLM1168",
+    "name": "Música, Películas y Series", 
+    "get": 30 
+  },
+  {
+    "id": "MLM44011",
+    "name": "Recuerdos, Cotillón y Fiestas",
+    "get": 30
+  },
+  {
+    "id": "MLM1430",
+    "name": "Ropa, Bolsas y Calzado",
+    "get": 75
+  },
+  {
+    "id": "MLM187772",
+    "name": "Salud y Equipamiento Médico",
+    "get": 45
+  } 
+  ]
+}

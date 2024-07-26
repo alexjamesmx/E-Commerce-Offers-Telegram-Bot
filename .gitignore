@@ -1,0 +1,6 @@
+__pycache__
+bot.log
+elektra/input.xlsx
+elektra/galleries.txt
+elektra/products.txt
+my_secret_variables.py
