@@ -2,7 +2,7 @@
 
 <h1 align="center">Offers, Promotions Telegram Bot</h1>
 
-<div>
+<div align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-v3.8-blue">
   <img alt="Telegram" src="https://img.shields.io/badge/telegram-bot-blue">
   <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-database-blue">
