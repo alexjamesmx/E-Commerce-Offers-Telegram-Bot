@@ -11,6 +11,7 @@
 <div>
 I built this bot to aggregate the best offers from various e-commerce sites in one place. Currently, the bot is configured to fetch offers from Mercado Libre, but you can easily modify it to fetch offers from other e-commerce sites. Pull requests are welcome!
 
+
 The bot is still in development, so it may have some bugs and missing features. I'll be working on improving it and adding more features.
 
 Join the Telegram group for testing and feedback ➡️ [Offers, Promotions Telegram Bot](https://t.me/superdescuentos_mx)
